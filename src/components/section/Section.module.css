@@ -1,0 +1,12 @@
+.container {
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+    display: block;
+    height: 500px;
+    background: rgb(var(--second-background-rgb));
+    border-bottom: 1px solid red;
+}
+
+
+
